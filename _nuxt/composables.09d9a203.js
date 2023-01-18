@@ -1,0 +1,1 @@
+import{C as u,k as n,D as a,E as r,G as c,H as i}from"./entry.ce99dcb3.js";function p(t={}){const o=t.i18n||u(n().$i18n),e=a(),s=r();return c({router:s,route:e,i18n:o})}function l(t={}){const o=t.i18n||u(n().$i18n),e=a(),s=r();return i({router:s,route:e,i18n:o})}export{l as a,p as u};
